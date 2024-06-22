@@ -10,4 +10,5 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+----
 Vgg19 Model Link : https://huggingface.co/spaces/Vishvawagh/Skin_Disease_Classification/blob/main/final_vgg1920epochs.h5
