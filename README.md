@@ -14,4 +14,5 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 Vgg19 Model Link : https://huggingface.co/spaces/Vishvawagh/Skin_Disease_Classification/blob/main/final_vgg1920epochs.h5
 -----
 Live Demo :
-[Screencast from 2024-06-22 18-29-39.webm](https://github.com/vishvawagh/Skin-Disease-Classifiation/assets/98593551/e1a86a5a-b218-415a-bf06-cff7e167ea5f)
+
+https://github.com/vishvawagh/Skin-Disease-Classifiation/assets/98593551/e1a86a5a-b218-415a-bf06-cff7e167ea5f
